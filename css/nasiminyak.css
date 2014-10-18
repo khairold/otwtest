@@ -1,0 +1,43 @@
+body {
+  padding-top: 90px;
+}
+
+.blog-sidebar {
+    
+}
+
+.sign-up-box {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #00a2ff;
+}
+
+
+
+.lipstick {
+    color: #ef007c;
+    font-weight: bold;
+}
+
+
+
+
+.navbar {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-brand{
+	color: #fff;
+}
+
+.navbar-default {
+    background-color: #00aeef;
+    border-width: 0px;
+}

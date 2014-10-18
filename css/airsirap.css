@@ -1,0 +1,120 @@
+.cover-heading {
+    color:#d4468e;
+    font-size: 54px;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+
+
+
+h1 {
+    
+}
+.boxblue {
+    background-color: #0000ff;
+}
+
+.boxred {
+    background-color: #f00;
+}
+
+.boxgreen {
+    background-color: #00ff00;
+}
+
+.boxgrey {
+    background-color: #cccccc;    
+}
+
+.text-img-overlay {
+    background-color: #000000;
+    text-align: center;
+    top:0;
+    left:0;
+    position: absolute;
+    margin: 8px 0px 0px 23px;
+    padding: 0px 8px 0px 8px;
+    color:#ffffff;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1.2px;
+    opacity: 0.2;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    /*background-color: #000000;*/  
+}
+
+.box_caption {
+    padding: 6px 0px 12px 0px;
+    text-align: center;
+}
+
+.box_head {
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: #666666;
+    font-weight: bold;
+    
+}
+
+.box_details {
+    color: #ecae80;
+}
+
+.box_url {
+    color:#999999;
+    font-style: italic;
+    font-size: 12px;    
+}
+
+.box_price {
+    padding: 3px 0px 12px 0px;
+    font-weight: bold;
+}
+
+.page-header {
+    margin: 12px 0px 0px 0px;
+}
+
+.navbar-default .navbar-brand {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1.2px;
+    font-weight:bold;
+    font-size: 30px;
+    padding-left:0px;
+    color:#d4468e;
+}
+
+
+
+.fb-name {
+    font-size: 16px;
+    padding-right: 10px;
+    font-weight: bold;
+    color:#888888;
+}
+
+.profile-right {
+    float:right;
+    padding-top:4px;
+}
+
+.box-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.img-responsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wedding-cost {
+    font-weight: bold;
+}
+
+
+
+
